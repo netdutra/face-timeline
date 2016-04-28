@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timeline Vanete</string>
+    <string name="avisoLogin">Efetue o login.</string>
+    <string name="facebook_app_id">1046339782076369</string>
+    <string name="menuLogout">Logout</string>
+    <string name="aviso">Aviso</string>
+    <string name="sair">Logout</string>
+</resources>
